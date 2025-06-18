@@ -68,8 +68,6 @@ Anagha's Voice Bot by Vandana Gupta
 ![image](https://github.com/user-attachments/assets/fa59e5f3-d44b-473d-8b9e-076aa97dca4e)  
 demo link - https://drive.google.com/file/d/1_1uSeOziwM54l9R0F8y2_kGyap8k7L4k/view?usp=sharing
 
-![image](https://github.com/user-attachments/assets/d11801f0-ba86-4687-9f2a-aa6650640b3f)
-
 ![image](https://github.com/user-attachments/assets/9e439fc3-d105-4685-9ae2-70886ea36e5f)
 
 ![image](https://github.com/user-attachments/assets/28c36007-5d95-4f3c-8c54-ca8a56453868)
