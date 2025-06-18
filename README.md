@@ -18,16 +18,6 @@ A Python-based desktop voice assistant that can respond to voice commands using 
 
 🔁 Interactive voice responses
 
-# Project Structure
-Voice Bot Anagha/
-├── build/
-├── dist/
-│   └── Voice Bot Spyder.exe      # Standalone executable
-├── Scripts/                      # Python scripts and configs
-├── Voice Bot Spyder.py          # Main Python script
-├── Voice Bot Spyder.spec        # PyInstaller spec file
-├── requirements.txt             # Required Python packages
-└── .venv/                        # Virtual environment
 
 # Installation
 
