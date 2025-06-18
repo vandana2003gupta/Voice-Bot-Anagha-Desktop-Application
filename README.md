@@ -5,11 +5,17 @@ A Python-based desktop voice assistant that can respond to voice commands using 
 # Features
 
 🎤 Voice recognition using speech_recognition
+
 🗣️ Text-to-speech conversion with pyttsx3
+
 ⛅ Real-time weather updates using OpenWeatherMap API
+
 📚 Wikipedia search
+
 😂 Fetch random jokes using pyjokes
+
 📅 Tells the current date and time
+
 🔁 Interactive voice responses
 
 # Project Structure
@@ -35,6 +41,39 @@ python -m venv venv
 
 Install dependencies:
 pip install -r requirements.txt
+
+🏗️ Building Executable (Optional)
+To build the executable using PyInstaller:
+
+bash
+Copy
+Edit
+pyinstaller --onefile --windowed Voice\ Bot\ Spyder.py
+This will generate an .exe file in the dist/ directory.
+
+🧠 How It Works
+The script listens to user voice commands.
+Parses intent using keywords (e.g., “weather”, “Wikipedia”, “joke”).
+Executes the action (fetches info, speaks response, etc.).
+Provides output via audio and/or console.
+
+🎉 Demo Use Cases
+“What is the weather in Delhi?”
+
+“Tell me about Artificial Intelligence.”
+
+“Tell me a joke.”
+
+“What’s the time now?”
+
+🤝 Contributing
+Pull requests are welcome! For major changes, please open an issue first to discuss your ideas.
+
+📜 License
+This project is licensed under the MIT License.
+
+🙋‍♀️ Author
+Anagha's Voice Bot by Vandana Gupta
 
 ![image](https://github.com/user-attachments/assets/fa59e5f3-d44b-473d-8b9e-076aa97dca4e)  
 demo link - https://drive.google.com/file/d/1_1uSeOziwM54l9R0F8y2_kGyap8k7L4k/view?usp=sharing
