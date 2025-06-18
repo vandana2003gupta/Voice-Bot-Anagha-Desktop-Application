@@ -32,7 +32,7 @@ python -m venv venv
 Install dependencies:
 pip install -r requirements.txt
 
-🏗️ Building Executable (Optional)
+#  Building Executable (Optional)
 To build the executable using PyInstaller:
 
 bash
@@ -41,13 +41,13 @@ Edit
 pyinstaller --onefile --windowed Voice\ Bot\ Spyder.py
 This will generate an .exe file in the dist/ directory.
 
-🧠 How It Works
+#  How It Works
 The script listens to user voice commands.
 Parses intent using keywords (e.g., “weather”, “Wikipedia”, “joke”).
 Executes the action (fetches info, speaks response, etc.).
 Provides output via audio and/or console.
 
-🎉 Demo Use Cases
+# Demo Use Cases
 “What is the weather in Delhi?”
 
 “Tell me about Artificial Intelligence.”
@@ -56,13 +56,13 @@ Provides output via audio and/or console.
 
 “What’s the time now?”
 
-🤝 Contributing
+# Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss your ideas.
 
-📜 License
+# License
 This project is licensed under the MIT License.
 
-🙋‍♀️ Author
+# 🙋‍♀️ Author
 Anagha's Voice Bot by Vandana Gupta
 
 ![image](https://github.com/user-attachments/assets/fa59e5f3-d44b-473d-8b9e-076aa97dca4e)  
