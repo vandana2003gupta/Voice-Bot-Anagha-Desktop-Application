@@ -30,10 +30,12 @@ pip install -r requirements.txt
 To build the executable using PyInstaller:
 
 bash
-Copy
-Edit
+```
 pyinstaller --onefile --windowed Voice\ Bot\ Spyder.py
+```
 This will generate an .exe file in the dist/ directory.
+
+or You Download the application from release section (left side bar of github page)
 
 #  How It Works
 The script listens to user voice commands.
@@ -58,7 +60,7 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 # License
 This project is licensed under the MIT License.
 
-# 🙋‍♀️ Author
+# Author
 Anagha's Voice Bot by Vandana Gupta
 
 ![image](https://github.com/user-attachments/assets/fa59e5f3-d44b-473d-8b9e-076aa97dca4e)  
