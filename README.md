@@ -4,19 +4,13 @@ A Python-based desktop voice assistant that can respond to voice commands using 
 
 # Features
 
-🎤 Voice recognition using speech_recognition
-
-🗣️ Text-to-speech conversion with pyttsx3
-
-⛅ Real-time weather updates using OpenWeatherMap API
-
-📚 Wikipedia search
-
-😂 Fetch random jokes using pyjokes
-
-📅 Tells the current date and time
-
-🔁 Interactive voice responses
+Voice recognition using speech_recognition
+Text-to-speech conversion with pyttsx3
+Real-time weather updates using OpenWeatherMap API
+Wikipedia search
+Fetch random jokes using pyjokes
+Tells the current date and time
+Interactive voice responses
 
 
 # Installation
