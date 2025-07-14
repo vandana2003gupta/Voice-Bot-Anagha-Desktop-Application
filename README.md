@@ -44,9 +44,11 @@ Provides output via audio and/or console.
 # Demo Use Cases
 “What is the weather in Delhi?”
 
+"Play DSA playlist on youtube"
+
 “Tell me about Artificial Intelligence.”
 
-“Tell me a joke.”
+“Tell me a joke on Engineering concept.”
 
 “What’s the time now?”
 
