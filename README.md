@@ -6,7 +6,7 @@ An intelligent Python-based **voice assistant** desktop application that respond
 
 ## Download
 
-👉 [Click here to download the desktop app (.exe)](https://github.com/vandana2003gupta/Voice-Bot-Anagha-Desktop-Application/releases)  
+[Click here to download the desktop app (.exe)](https://github.com/vandana2003gupta/Voice-Bot-Anagha-Desktop-Application/releases)  
 > Go to the **Releases** section and download the latest `.exe` installer.
 
 Once downloaded:
@@ -76,7 +76,8 @@ This project is licensed under the MIT License.
 Anagha's Voice Bot by Vandana Gupta
 
 ![image](https://github.com/user-attachments/assets/fa59e5f3-d44b-473d-8b9e-076aa97dca4e)  
-demo link - https://drive.google.com/file/d/1_1uSeOziwM54l9R0F8y2_kGyap8k7L4k/view?usp=sharing
+
+[Demo Video Link](https://drive.google.com/file/d/1_1uSeOziwM54l9R0F8y2_kGyap8k7L4k/view?usp=sharing)  
 
 ![image](https://github.com/user-attachments/assets/9e439fc3-d105-4685-9ae2-70886ea36e5f)
 
