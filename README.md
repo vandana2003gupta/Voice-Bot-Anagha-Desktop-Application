@@ -1,6 +1,17 @@
-# 🎙 Voice-Bot-Anagha
+# Voice Bot Anagha – Desktop Application
 
-A Python-based desktop voice assistant that can respond to voice commands using text-to-speech and speech recognition. It integrates features like weather updates using the OpenWeatherMap API, Wikipedia search, jokes, and more.
+An intelligent Python-based **voice assistant** desktop application that responds to your spoken commands, fetches weather information, opens websites, speaks out results, and much more — all powered by `pyttsx3`, `SpeechRecognition`, and the OpenWeatherMap API.
+
+> Includes a **Windows executable (.exe)** version for easy use without installing Python.
+
+## Download
+
+👉 [Click here to download the desktop app (.exe)](https://github.com/vandana2003gupta/Voice-Bot-Anagha-Desktop-Application/releases)  
+> Go to the **Releases** section and download the latest `.exe` installer.
+
+Once downloaded:
+1. Run the `.exe` file
+2. Speak your commands directly — no typing required!
 
 # Features
 
@@ -11,6 +22,7 @@ Wikipedia search
 Fetch random jokes using pyjokes
 Tells the current date and time
 Interactive voice responses
+
 
 
 # Installation
