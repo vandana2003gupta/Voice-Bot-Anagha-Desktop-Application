@@ -1,0 +1,27 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.env/
+
+# Build artifacts
+dist/*
+!dist/Voice_Bot_Spyder.exe
+
+build/
+*.spec
+
+# Installer output
+InstallerOutput/
+
+# Ignore all EXEs except the one in dist
+*.exe
+!dist/Voice_Bot_Spyder.exe
+
+# VS Code and system files
+.vscode/
+.DS_Store
+Thumbs.db

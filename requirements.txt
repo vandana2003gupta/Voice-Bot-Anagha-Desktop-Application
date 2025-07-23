@@ -1,0 +1,11 @@
+SpeechRecognition
+pyttsx3
+pywhatkit
+wikipedia
+pyjokes
+requests
+psutil
+pyautogui
+pycaw
+comtypes
+word2number
