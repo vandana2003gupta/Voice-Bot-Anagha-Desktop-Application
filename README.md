@@ -93,8 +93,9 @@ Say This	What Happens
 "Anagha, take screenshot"	Saves screenshot to project directory
 "Anagha, system info"	Reports battery level and charging status
 
+---
 
-## system 
+## System Workflow
 
 ```
 +-------------------+
@@ -145,6 +146,44 @@ Say This	What Happens
 
 ```
 
+---
 
+## System Architecture
+
+```
++---------------------------------------------------+
+|                   User Layer                      |
+|---------------------------------------------------|
+| - Voice Commands ("Anagha")                       |
+| - Output Feedback (Speech, Action)                |
++---------------------------------------------------+
+                         |
+                         v
++---------------------------------------------------+
+|          Input & Processing Layer                 |
+|---------------------------------------------------|
+| - Speech Recognition (speech_recognition)         |
+| - NLP + Utilities (wikipedia, word2number, pyjokes)|
++---------------------------------------------------+
+                         |
+                         v
++---------------------------------------------------+
+|                Execution Layer                    |
+|---------------------------------------------------|
+| - Email Handling (smtplib + Outlook)              |
+| - News API (NewsAPI.org)                          |
+| - Weather API (OpenWeatherMap)                    |
+| - Music/YouTube (pywhatkit, webbrowser)           |
+| - System Control (pycaw, psutil, pyautogui)       |
++---------------------------------------------------+
+                         |
+                         v
++---------------------------------------------------+
+|               Output Layer                        |
+|---------------------------------------------------|
+| - Speech (pyttsx3, gender switch)                 |
+| - Actions (open apps, control system, etc.)       |
++---------------------------------------------------+
+```
 
 
