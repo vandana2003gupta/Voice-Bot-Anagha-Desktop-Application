@@ -4,7 +4,7 @@ Anagha is an intelligent, Python-based desktop voice assistant designed to simpl
 
 ---
 
-## ✨ Features
+## Features
 
 | Feature                      | Description                                                                |
 |----------------------------- |----------------------------------------------------------------------------|
@@ -22,7 +22,7 @@ Anagha is an intelligent, Python-based desktop voice assistant designed to simpl
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Category             | Libraries / Tools                            |
 |----------------------|----------------------------------------------|
