@@ -94,5 +94,57 @@ Say This	What Happens
 "Anagha, system info"	Reports battery level and charging status
 
 
+## system 
+
+```
++-------------------+
+|   User (Voice)    |
++-------------------+
+          |
+          v
++-------------------+
+| Wake Word: "Anagha"|
++-------------------+
+          |
+          v
++----------------------------+
+| Speech Recognition Engine  |
+| (speech_recognition)       |
++----------------------------+
+          |
+          v
++----------------------------+
+| NLP & Command Processing   |
+| - Wikipedia                |
+| - word2number              |
+| - pyjokes                  |
++----------------------------+
+          |
+          v
++----------------------------+
+| Task Execution Layer       |
+| - Email (smtplib)          |
+| - News (NewsAPI)           |
+| - Weather (OpenWeatherMap) |
+| - Music (pywhatkit)        |
+| - System Control (pycaw,   |
+|   psutil, pyautogui)       |
++----------------------------+
+          |
+          v
++----------------------------+
+| Voice Response Generator   |
+| (pyttsx3 - Male/Female)    |
++----------------------------+
+          |
+          v
++-------------------+
+|   User Output     |
+| (Speech + Action) |
++-------------------+
+
+```
+
+
 
 
