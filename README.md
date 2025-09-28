@@ -57,7 +57,7 @@ You can use the application directly without writing or executing any code. Here
 
 ---
 
-## 🖥Setup Instructions
+## Setup Instructions
 
 ### 1. Clone the Repository
 ```bash
